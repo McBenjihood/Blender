@@ -1,2 +1,2 @@
 # Blender
-My Blender Models for My Game
+My Blender Models for my Game 
